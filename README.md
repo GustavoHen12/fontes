@@ -4,7 +4,7 @@ Um lugar pra centralizar as fontes que uso
 
 ## Fontes
 
-### [Endor](https://www.dafont.com/endor.font) 
+### [Endor](https://www.dafont.com/endor.font)
 
 Liscence: "100% free"
 ![Endor Preview](img/endor.png)
@@ -13,7 +13,7 @@ Liscence: "100% free"
 
 Liscence: Open Font License
 
-### [Knawave](https://github.com/theleagueof/knewave) 
+### [Knawave](https://github.com/theleagueof/knewave)
 
 Liscence: Open Font License
 ![Font Preview](img/Knawave.png)
